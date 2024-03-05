@@ -1,0 +1,17 @@
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\bin\Debug\Employee_management_System.exe.config
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\bin\Debug\Employee_management_System.exe
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\bin\Debug\Employee_management_System.pdb
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.csproj.AssemblyReference.cache
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.Login.resources
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.Properties.Resources.resources
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.csproj.GenerateResource.cache
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.csproj.CoreCompileInputs.cache
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.exe
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.pdb
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.Employees.resources
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.Departments.resources
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.Salaries.resources
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\bin\Debug\Employee_management_System.exe.manifest
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\bin\Debug\Employee_management_System.application
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.exe.manifest
+C:\Users\hezro\OneDrive\Desktop\Employee_management_System\obj\Debug\Employee_management_System.application
